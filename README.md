@@ -2,8 +2,8 @@
 
 <h3><samp>Contributors:</samp></h3>
 <ul>
-<a href="https://github.com/xoFrey"><li><samp>Izel Acar</samp></li></a>
 <a href="https://github.com/MiaMarmeladenbrot"><li><samp>Mia Mecklenburg</samp></li></a>
+<a href="https://github.com/xoFrey"><li><samp>Izel Acar</samp></li></a>
 <a href="https://github.com/Hkndevit"><li><samp>Hakan Devit</samp></li></a>
 
 </ul>
@@ -23,37 +23,30 @@
 <h3><samp>Features:</samp></h3>
 <ul>
 <li><samp>Made with <a href="https://pokeapi.co/">Poke API</a></samp></li>
+<li><samp>Showing all Pokemon ordered by generations</samp></li>
+<li><samp>Search-Function for Pokemon by names</samp></li>
+<li><samp>Filter-Function for Pokemon by types</samp></li>
 <li><samp>Dynamic Detail Page for each Pokemon</samp></li>
 </ul>
 
 <h2><samp>Live site</samp></h2>
 <li><samp><a href="https://poke-dex-eta-eight.vercel.app/">Live Page</a></samp></li>
 
-<h2><samp>Screenshot</samp></h2>
+<h2><samp>Screenshots</samp></h2>
+<!-- Home -->
+<div align="center">
+<img width="300"  src="./public/Images/screenshots/PokeHome.png"/>
+<img width="300"  src="./public/Images/screenshots/PokeDark1.png"/>
+</div>
 
-<p align="center">
-<img width="300"  src="./public/Images/screenshots/PokeHome.png"/>  
-</p>
-
-<p align="center">
-<img width="300"  src="./public/Images/screenshots/PokeDark1.png"/> 
-</p>
-
-<p align="center">
-<img width="300"  src="./public/Images/screenshots/PokeDark2.png"/>
-</p>
-
-<p align="center">
-<img width="300" src="./public/Images/screenshots/PokeFilter1.png"/> 
-</p>
-<p align="center">
+<!-- Filter -->
+<div align="center">
+<img width="300" src="./public/Images/screenshots/PokeFilter1.png"/>
 <img width="300" src="./public/Images/screenshots/PokeFilter2.png"/>
-</p>
+</div>
 
-<p align="center">
+<!-- Details -->
+<div align="center">
 <img width="300" src="./public/Images/screenshots/PokeDetails1.png"/>
-</p>
-
-<p align="center">
-<img width="300" src="./public/Images/screenshots/PokeDetails2.png"/> 
-</p>
+<img width="300"  src="./public/Images/screenshots/PokeDark2.png"/>
+</div>

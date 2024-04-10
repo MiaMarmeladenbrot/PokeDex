@@ -8,11 +8,6 @@
   src: url(/Fonts/Roboto-Bold.ttf);
 }
 
-.wrapper {
-  max-width: 450px;
-  margin: 0 auto;
-}
-
 * {
   margin: 0;
   padding: 0;
