@@ -48,7 +48,7 @@ const Home = () => {
         {}
       </section>
       <div className="button-container">
-        <button className=" btn" onClick={() => setLoadItems(loadItems + 20)}>
+        <button className="btn" onClick={() => setLoadItems(loadItems + 20)}>
           Load More
         </button>
       </div>

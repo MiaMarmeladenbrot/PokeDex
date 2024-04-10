@@ -4,8 +4,6 @@ import { LoadingContent } from "../../component/Context/Context";
 const LoadingPage = () => {
   const { setLoading } = useContext(LoadingContent);
 
-  //   # userInput in fetch details damit dynamisch
-
   useEffect(() => {
     setTimeout(() => {
       setLoading(true);

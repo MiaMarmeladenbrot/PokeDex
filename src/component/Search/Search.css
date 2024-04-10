@@ -12,6 +12,7 @@
   border-style: none;
   padding: 10px 10vw;
 }
+
 .search input::placeholder {
   color: var(--placeholder);
   font-size: 14px;

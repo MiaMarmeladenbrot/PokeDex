@@ -27,11 +27,33 @@
 </ul>
 
 <h2><samp>Live site</samp></h2>
-<li><samp><a href="https://poke-dex-livid-two.vercel.app">Live Page</a></samp></li>
+<li><samp><a href="https://poke-dex-eta-eight.vercel.app/">Live Page</a></samp></li>
 
 <h2><samp>Screenshot</samp></h2>
 
 <p align="center">
-<img width="500" height="300" src="./public/img/Mainpagedesk.png"/> <img width="500"  height="300"  src="./public/img/DetailDesktop.png"/> 
+<img width="300"  src="./public/Images/screenshots/PokeHome.png"/>  
 </p>
-<p align="center"><img width="300" src="./public/img/Mainpagemobile.png"/> <img width="300" src="./public/img/Detailmobile.png"/></p>
+
+<p align="center">
+<img width="300"  src="./public/Images/screenshots/PokeDark1.png"/> 
+</p>
+
+<p align="center">
+<img width="300"  src="./public/Images/screenshots/PokeDark2.png"/>
+</p>
+
+<p align="center">
+<img width="300" src="./public/Images/screenshots/PokeFilter1.png"/> 
+</p>
+<p align="center">
+<img width="300" src="./public/Images/screenshots/PokeFilter2.png"/>
+</p>
+
+<p align="center">
+<img width="300" src="./public/Images/screenshots/PokeDetails1.png"/>
+</p>
+
+<p align="center">
+<img width="300" src="./public/Images/screenshots/PokeDetails2.png"/> 
+</p>
