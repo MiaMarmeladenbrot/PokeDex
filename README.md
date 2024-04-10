@@ -24,9 +24,11 @@
 <ul>
 <li><samp>Made with <a href="https://pokeapi.co/">Poke API</a></samp></li>
 <li><samp>Showing all Pokemon ordered by generations</samp></li>
-<li><samp>Search-Function for Pokemon by names</samp></li>
-<li><samp>Filter-Function for Pokemon by types</samp></li>
+<li><samp>Search Pokemon by names</samp></li>
+<li><samp>Filter Pokemon by types</samp></li>
 <li><samp>Dynamic Detail Page for each Pokemon</samp></li>
+<li><samp>Darkmode</samp></li>
+
 </ul>
 
 <h2><samp>Live site</samp></h2>
