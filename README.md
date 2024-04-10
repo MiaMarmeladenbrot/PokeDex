@@ -22,7 +22,7 @@
 
 <h3><samp>Features:</samp></h3>
 <ul>
-<li><samp>Made with <a href="https://pokeapi.co/">Poke API</a></samp></li>
+<li><samp>Made with <a href="https://pokeapi.co/" target="_blank">Poke API</a></samp></li>
 <li><samp>Showing all Pokemon ordered by generations</samp></li>
 <li><samp>Search Pokemon by names</samp></li>
 <li><samp>Filter Pokemon by types</samp></li>
@@ -32,7 +32,7 @@
 </ul>
 
 <h2><samp>Live site</samp></h2>
-<li><samp><a href="https://poke-dex-eta-eight.vercel.app/">Live Page</a></samp></li>
+<li><samp><a href="https://poke-dex-eta-eight.vercel.app/" target="_blank">Live Page</a></samp></li>
 
 <h2><samp>Screenshots</samp></h2>
 <!-- Home -->
