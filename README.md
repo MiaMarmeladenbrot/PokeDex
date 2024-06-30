@@ -26,7 +26,7 @@
 <li><samp>Showing all Pokemon ordered by generations</samp></li>
 <li><samp>Search Pokemon by names</samp></li>
 <li><samp>Filter Pokemon by types</samp></li>
-<li><samp>Dynamic Detail Page for each Pokemon</samp></li>
+<li><samp>Detail Page for each Pokemon with animation</samp></li>
 <li><samp>Darkmode</samp></li>
 
 </ul>
